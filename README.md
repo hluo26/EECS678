@@ -1,1 +1,1 @@
-# EECS678-lab1
+# EECS678
